@@ -29,13 +29,8 @@ AdminLTE 3 for Laravel 11.
 -   Run `php artisan key:generate`
 -   Set your database credentials in your `.env` file
 -   Run migration `php artisan migrate`
--   Make something awesome!
+-   Run `php artisan serve`
 
-## Todo Lists
-
--   LaravelEasyNav implementation
--   Preview screenshots
--   More pages...
 
 ## Note
 
